@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Pravin Paratey. Things I've made.">
+  <rect width="1200" height="300" rx="14" fill="#0b1220"/>
+  <rect x=".5" y=".5" width="1199" height="299" rx="13.5" fill="none" stroke="#22314e"/>
+  <g fill="none" stroke-linecap="round" stroke-width="2">
+    <path d="M0 232 Q75 214 150 232 T300 232 T450 232 T600 232 T750 232 T900 232 T1050 232 T1200 232" stroke="#5fa8bc" opacity=".55"/>
+    <path d="M0 252 Q75 234 150 252 T300 252 T450 252 T600 252 T750 252 T900 252 T1050 252 T1200 252" stroke="#5fa8bc" opacity=".3"/>
+    <path d="M0 272 Q75 254 150 272 T300 272 T450 272 T600 272 T750 272 T900 272 T1050 272 T1200 272" stroke="#5fa8bc" opacity=".15"/>
+  </g>
+  <g font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace">
+    <text x="64" y="84" font-size="18" fill="#e8a33d" letter-spacing="2">PRAVIN PARATEY</text>
+    <text x="64" y="158" font-size="60" font-weight="600" fill="#dfe6f2">Things I've made.</text>
+    <text x="64" y="204" font-size="20" fill="#9aa7bd">Cofounder @ Kaizan · 23+ years · 6 startups · ex-Meta · London</text>
+  </g>
+</svg>

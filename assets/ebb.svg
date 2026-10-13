@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 170" width="580" height="170" role="img" aria-label="Ebb">
+  <rect width="580" height="170" rx="12" fill="#101a30"/>
+  <rect x=".5" y=".5" width="579" height="169" rx="11.5" fill="none" stroke="#22314e"/>
+  <g font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace">
+    <text x="28" y="44" font-size="13" fill="#5c6a83" letter-spacing="2">PLAY IN YOUR BROWSER</text>
+    <text x="28" y="86" font-size="30" font-weight="600" fill="#5fa8bc">Ebb</text>
+    <text x="28" y="118" font-size="15" fill="#9aa7bd">A rising-sea 4X. The sea rises every turn.</text>
+    <text x="28" y="146" font-size="14" fill="#e8a33d">Play ↗</text>
+  </g>
+</svg>
